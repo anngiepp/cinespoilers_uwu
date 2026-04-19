@@ -1,8 +1,4 @@
-# ⋆｡𖦹 ˚ 𓇼 ˚｡⋆ Proyecto Cinespoilers API ⋆｡𖦹 ˚ 𓇼 ˚｡⋆
-
-## ૮ ˶ᵔ ᵕ ᵔ˶ ა Autor
-
-**ANGIE PORTOCARRERO** 
+# ⋆｡˚ 𓇼 ˚ Proyecto Cinespoilers API ⋆｡𖦹 ˚｡⋆
 
 ---
 
