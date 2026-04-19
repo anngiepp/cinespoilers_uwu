@@ -23,7 +23,7 @@
 Comandos utilizados:
 
 ```
-git clone URL_DEL_REPO
+git clone
 cd cinespoilers
 python -m venv venv
 venv\Scripts\activate
