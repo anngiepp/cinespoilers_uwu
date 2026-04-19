@@ -54,23 +54,24 @@ python manage.py runserver
 
 ### 📸 Create
 
-![POST]()
+![POST](./img/crud1.png)
 
 ### 📸 Read_lista
 
-![GET]()
+![GET](./img/crud2.png)
 
 ### 📸 Read_Detalle
 
-![GET]()
+![GET](./img/crud3.png)
 
 ### 📸 Update
 
-![PUT]()
+![PUT](./img/crud4.png)
 
 ### 📸 Delete
 
-![DELETE]()
+![DELETE](./img/crud5.png)
+![DELETE](./img/crud5-1.png)
 
 
 ---
