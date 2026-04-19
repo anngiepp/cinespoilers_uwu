@@ -11,7 +11,7 @@
 
 ---
 
-## ⋆｡𖦹 ˚ 𓇼 ˚｡⋆ Pasos para ejecutar el proyecto
+## Pasos para ejecutar el proyecto
 
 1. Clonar el repositorio
 2. Crear entorno virtual
