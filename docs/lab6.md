@@ -74,4 +74,4 @@ python manage.py runserver
 
 ## ✩⋆    ✮  Conclusión
 
-Se logró implementar correctamente una API REST funcional con buenas prácticas básicas, permitiendo la gestión de películas y validación de datos.
+Se logró implementar correctamente una API REST funcional con buenas prácticas básicas, permitiendo la gestión de géneros y validación de datos.
